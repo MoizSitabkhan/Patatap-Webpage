@@ -5,4 +5,4 @@ A Fun Cool Project using Howler and Paper Js
 
 ##### What this does that for any alphabet you press on the keyboard it will give a random animation of a Circle and a diffeent Sound for every key just gets you to keep playing with it !!
 
-##### To get started just add all these files to a folder and just open the [Circles.html](https://www.google.com) file in a browser and enjoy !
+##### To get started just add all these files to a folder and just open the [Circles.html](https://github.com/MoizSitabkhan/Patatap-Webpage/blob/master/circles.html) file in a browser and enjoy !
